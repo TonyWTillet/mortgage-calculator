@@ -9,7 +9,3 @@ Built with VueJS
 ## Installation
 npm install
 npm run dev
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-Most open source projects use the MIT license. Feel free to choose whichever license you prefer.
