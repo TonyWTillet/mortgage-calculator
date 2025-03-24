@@ -1,29 +1,15 @@
-# mortgage-calculator
+# DevProjects - Mortgage calculator web app
 
-This template should help get you started developing with Vue 3 in Vite.
+This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
+Find the project requirements here: [Mortgage calculator web app](https://www.codementor.io/projects/web/mortgage-calculator-web-app-d16bqrq2q3)
 
-## Recommended IDE Setup
+## Tech/framework used
+Built with VueJS
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
+## Installation
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+Most open source projects use the MIT license. Feel free to choose whichever license you prefer.
